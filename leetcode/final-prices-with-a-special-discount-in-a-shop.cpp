@@ -1,12 +1,11 @@
-#include <vector>
 #include <iostream>
-#include <string>
+#include <vector>
+
+#include "../util.h"
 
 using namespace std;
 
 vector<int> finalPrices(vector<int>& input);
-void printVector(vector<int> input);
-
 
 int main() {
     vector<int> input = { 10, 1, 1, 6 };
@@ -15,9 +14,8 @@ int main() {
     return 0;
 }
 
-
 /**
- * Calculate and return the prices from an array of input prices
+ * @brief Calculate and return the prices from an array of input prices
  * given a special discount.
  * 
  * The discount is calculated from the ith element onwards. The
@@ -42,21 +40,6 @@ vector<int> finalPrices(vector<int>& input) {
             }
         }
     }
-    
+
     return input;
-};
-
-
-/**
- * Utility: Print a given vector v
- * 
- * @param v vector
- * @returns none
- */
-void printVector(vector<int> v) {
-    cout << "Output: ";
-    for (auto& i : v) {
-        cout << i << " ";
-    }
-    cout << "\n";
-};
+}
