@@ -6,3 +6,4 @@ My collection of code challenges worked out in C++, a language I've been wanting
 |  #  | Problem         |  Solution       |  Difficulty     |
 |-----|---------------- | --------------- | --------------- |
 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [C++](./leetcode/final-prices-with-a-special-discount-in-a-shop.cpp) | Easy
+1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [C++](./leetcode/number-of-students-unable-to-eat-lunch.cpp) | Easy
