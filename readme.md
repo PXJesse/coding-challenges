@@ -10,3 +10,4 @@ My collection of code challenges worked out in C++, a language I've been wanting
 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [C++](./leetcode/check-if-array-is-sorted-and-rotated.cpp) | Easy
 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [C++](./leetcode/calculate-money-in-leetcode-bank.cpp) | Easy
 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [C++](./leetcode/arranging-coins.cpp) | Easy
+1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [C++](./leetcode/reformat-phone-number.cpp) | Easy
