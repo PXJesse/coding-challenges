@@ -5,10 +5,10 @@
 using namespace std;
 
 /**
- * Utility: Print a given vector v
+ * @brief Utility: Print a given vector v
  *
- * @param v vector
- * @returns none
+ * @param v  vector
+ * @returns  none
  */
 void printVector(vector<int> v) {
     for (auto& i : v) {
@@ -17,10 +17,10 @@ void printVector(vector<int> v) {
 }
 
 /**
- * Utility: Print a given deque d
+ * @brief Utility: Print a given deque d
  *
- * @param d deque
- * @returns none
+ * @param d  deque
+ * @returns  none
  */
 void printDeque(deque<int> d) {
     for (auto& i : d) {
